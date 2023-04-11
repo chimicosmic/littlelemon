@@ -1,0 +1,10 @@
+.top {
+    display: flex;
+    justify-content: center;
+    gap: 38rem;
+    margin-top: 5rem;
+}
+
+main {
+    margin-bottom: 5rem;
+}
