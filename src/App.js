@@ -9,7 +9,6 @@ import { useFormContext } from "./store/FormContext";
 import "./App.css";
 
 function App() {
- 
 
   return (
     <BrowserRouter>
@@ -17,7 +16,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/booking" element={<Booking />} />
-        
       </Routes>
       <Footer />
     </BrowserRouter>
